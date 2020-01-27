@@ -1,0 +1,28 @@
+/home/sora/delivery/fun_evalexpr/bonus/ChangeLog.md:
+  hash: 55e20eb107deaeff09ca87ed02f7f38cb6367ab718a2261e57249bb0610a49a9
+  size: 51
+  modtime: 1572513607
+/home/sora/delivery/fun_evalexpr/bonus/src/Parser.hs:
+  hash: 10c924a269671c4317ef3f24ae7ab98d7eec5d02501e33e18e70f2098649a4c2
+  size: 8206
+  modtime: 1572891960
+/home/sora/delivery/fun_evalexpr/bonus/src/Packrat.hs:
+  hash: 7aaa706637e37a78763b75b948b0cc13fa45528470fc41ae090639443df41f6d
+  size: 2456
+  modtime: 1572513607
+/home/sora/delivery/fun_evalexpr/bonus/src/Parse.hs:
+  hash: edad899800fb1d4839ab2b881df69947648b51728ed5bee00ea8d863ee9a67e8
+  size: 3021
+  modtime: 1572513607
+/home/sora/delivery/fun_evalexpr/bonus/README.md:
+  hash: 33223116bcc9d6bedc4fdf44df7224d9f2b1b0e0567439bb27cf803d1935f5e5
+  size: 14
+  modtime: 1572513607
+/home/sora/delivery/fun_evalexpr/bonus/package.yaml:
+  hash: a076ac713e206bfb2b4d137c7aec4d4a295b2fd4d6cfa851bb1655ef33bb0284
+  size: 1230
+  modtime: 1572533418
+/home/sora/delivery/fun_evalexpr/bonus/funEvalExpr.cabal:
+  hash: d3de00acc3234d862324c33fcecf90d3bac3d0ca98bc03c813aa5d2d0f0fba45
+  size: 1658
+  modtime: 1572541065
